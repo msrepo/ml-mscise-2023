@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy import ndarray
 
-""" We can compute, both mathematically and in code, the derivatives of nested/composite functions if the individual functions are [mostly] differentiable."""
+""" We can compute, both mathematically and in code, 
+    the derivatives of nested/composite functions if the individual functions are [mostly] differentiable."""
 
 def plot_function(f:Callable,plot_range:Tuple,show:bool=False,axes = None,title="",**kwargs):
     """plot the function f in the range given by plot_range.
@@ -41,7 +42,7 @@ def df_dx_sigmoid(x: ndarray) -> ndarray:
 def df_dx_relu(x: ndarray) -> ndarray:
     return 1.0 * (x > 0)
 
-def df_dx_generic(f:Callable[[ndarray],ndarray],x: ndarray, delta_x = 0.0001)->ndarray:
+def df_dx_generic(f:Callable,x: ndarray, delta_x = 0.0001)->ndarray:
     return (f(x+delta_x) - f(x - delta_x)) / (2 * delta_x)
 
 if __name__ == '__main__':
@@ -61,6 +62,7 @@ if __name__ == '__main__':
 
     sample_linear = partial(linear,theta0=1,theta1=-3)
     plot_fx_dfdx(sample_linear,ax[0,0],title='y=1-3x')
+
     sample_quadratic = partial(quadratic,theta0=0,theta1=0,theta2=2)
     plot_fx_dfdx(sample_quadratic,ax[0,1],title='y=x^2')
 
