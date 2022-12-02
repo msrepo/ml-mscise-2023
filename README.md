@@ -7,3 +7,4 @@ draft course notes (overleaf): https://www.overleaf.com/read/pjfgkmjsgyzt
 
 - Numpy Tutorial  https://github.com/kuleshov/teaching-material/blob/master/tutorials/python/cornell-cs5785-python-tutorial.ipynb
 - Linear Regression https://github.com/msrepo/ml-mscise-2023/blob/master/prerequisites/Optimization_and_Linear_Regression.ipynb
+- Model Evaluation and Selection (Section 1, 2 and 3) https://arxiv.org/pdf/1811.12808.pdf
