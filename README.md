@@ -11,6 +11,7 @@ draft course notes (overleaf): https://www.overleaf.com/read/pjfgkmjsgyzt
 - Linear Regression https://github.com/msrepo/ml-mscise-2023/blob/master/Lecture1_linear_regression.ipynb
 - Logistic Regression https://github.com/msrepo/ml-mscise-2023/blob/master/Lecture6_classification.ipynb
 - Model Evaluation and Selection (Section 1, 2 and 3) https://arxiv.org/pdf/1811.12808.pdf
+- Performance Metrics https://hal.archives-ouvertes.fr/hal-03682454/document
 
 
 TODO:
