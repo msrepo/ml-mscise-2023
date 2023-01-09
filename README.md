@@ -1,6 +1,8 @@
 # ml-mscise-2023 course repo
 (Foundations of) Machine Learning
 
+[Reading list schedule](https://docs.google.com/spreadsheets/d/1do9YS3lPw6TGE1KGjmNixm9vsNCbAGLo3KSgsTXpzZ0/edit?usp=sharing)
+
 [Course Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKathmandu&src=Mzc0YTE5NmNkYjZjNGRlODk5MDcwMjRjYjM1NGNiNjY1NDMyODljN2JjZDFkM2I1YWZmZTBmMDM2ZWEwZTczNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441)
 
 MSc Information System Engineering @ Gandaki College of Engineering and Science
