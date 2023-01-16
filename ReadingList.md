@@ -32,5 +32,9 @@
 - Wu, Yonghui, et al. "Google's neural machine translation system: Bridging the gap between human and machine translation." arXiv preprint arXiv:1609.08144 (2016).
 - Gomez-Uribe, Carlos A., and Neil Hunt. "The netflix recommender system: Algorithms, business value, and innovation." ACM Transactions on Management Information Systems (TMIS) 6.4 (2015): 1-19.
 
+## Large Language Models
+- Razeghi, Yasaman, et al. "Impact of pretraining term frequencies on few-shot reasoning." arXiv preprint arXiv:2202.07206 (2022).
+- Zhou, Hattie, et al. "Teaching Algorithmic Reasoning via In-context Learning." arXiv preprint arXiv:2211.09066 (2022).
+
 ### Technical Papers list
 - https://github.com/terryum/awesome-deep-learning-papers
