@@ -36,5 +36,8 @@
 - Razeghi, Yasaman, et al. "Impact of pretraining term frequencies on few-shot reasoning." arXiv preprint arXiv:2202.07206 (2022).
 - Zhou, Hattie, et al. "Teaching Algorithmic Reasoning via In-context Learning." arXiv preprint arXiv:2211.09066 (2022).
 
+## Model Interpretability
+- Ross, Andrew Slavin, Michael C. Hughes, and Finale Doshi-Velez. "Right for the right reasons: Training differentiable models by constraining their explanations." arXiv preprint arXiv:1703.03717 (2017).
+- 
 ### Technical Papers list
 - https://github.com/terryum/awesome-deep-learning-papers
