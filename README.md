@@ -10,6 +10,7 @@ Upcoming Course Plan:
  - Split: 8 Code Discussion, 4 theory discussion
  - How do we cover 4 chapters in 4 classes? (record video lectures?)
  - Book for Code Discussion: Deep Learning with Python, Francois Chollet, 2nd edition. https://github.com/fchollet/deep-learning-with-python-notebooks http://library.lol/main/9826844C6C65BBA754AE6ADDC036EDE3
+ - Code Session 1: Mathematical Building Blocks of Neural networks , Chapter 2 of Chollet. https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter02_mathematical-building-blocks.ipynb
  
  
 
